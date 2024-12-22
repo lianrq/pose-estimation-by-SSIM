@@ -1,2 +1,2 @@
-# pose-estimation-by-SSIM
+# pose-estimation-by-SSIM-Integration
 The code will be uploaded soon...
